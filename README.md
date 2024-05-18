@@ -96,7 +96,28 @@ Explore the website to learn more about my work and skills. Sections in the webs
 portfolio-website/
 │
 ├── index.html
-│   
+├── assets
+│   ├── images
+│   │     ├── branding
+│   │     │    ├── img-folder1
+│   │     │    ├── img-folder2
+│   │     │    ├── img-folder3
+│   │     │    └── img-folder4
+│   │     ├── posters
+│   │     │    └── images
+│   │     ├── porsche
+│   │     │    └── images
+│   │     ├── designs
+│   │     │    └── images
+│   │     ├── gallery01
+│   │     │    └── images
+│   │     └── images
+│   └── resume file
+├── cdn-cgi
+│   ├── l
+│   │   └── email-protection.html
+│   └── scripts
+│       └── email-decode.js
 └── README.md
 ```
 
