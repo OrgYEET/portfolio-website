@@ -1,4 +1,4 @@
-## Overview
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA4ZDMwMzR6bnliaGhnMTdpa2szMDVrc3FweXFjNDNsMmNzdWQ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3hOg9XQ8ZmnezE4e6/giphy.gif" width="40"> [Click here for the Live Version of the Portfolio Website](https://simplysameen.netlify.app)
 
 Welcome to my personal portfolio website. This platform showcases my skills, projects, and experiences as a developer and designer. The website is a reflection of my career, and I hope you find it informative and inspiring.
 
